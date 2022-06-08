@@ -15,7 +15,7 @@
 
 # Self introduction
 
-- More than ten years of software development experience in the mobile phone industry
+- More than ten years of software development experience
 - Familiar with the working principle of android development platform and android security mechanism
 - Familiar with 3GPP call protocol and various mobile phone development languages
 - Have a certain understanding of artificial intelligence neural networks, CNN, RNN
@@ -29,10 +29,13 @@ Steady, responsible for work, proactively help other colleagues to solve technic
 
 ## KaiOS 2018.12~now
 
-focus on customer support for KaiOS communication related APPs:
-- Telephony related APPs(callscreen, contact, call log, stk) business (field test, agreement consistency, operator network access test related), etc...
-- gaia upper-level application refactoring-optimize startup speed, add unit test
+KaiOS(based on Firefox) AE team:
+- Telephony related APPs development&support
+- Application refactoring(preact), add unit test(jest+enzyme)
+- Develop special feature from some oversea operator network (telephony services & sim-based customization)
+- Telecom services (field test, agreement consistency, operator network access test related), etc...
 - Responsible for some management work of the FE team as a technical leader
+- Mainly using Javascript & C++ for development
  
 ## UNISOC 2011.2~2018.12
 
@@ -41,7 +44,7 @@ focus on customer support for KaiOS communication related APPs:
 |  period   | work summary  |
 |  :----  | :----  |
 |  2011.04~2016.10 Telepony-SH Team |   Upgrade Android version for telephony module- Develop some SPRD' features and customers' request;  Take in chager of these modules(Call. SIM. STK) |
-|  2016.10~2018.12 APP-Security Team |  Form 2016.10 to now my job change into Security Team and focus on Fingerprint module: Develop some new features for FP and reslove some FP' issues from customers. Guide customers finish to develop TA in TEE(Trusty).Develop fingerprint'payment(SOTER) in platform. As an owner of fingerprint module with customers|
+|  2016.10~2018.12 Security Team |  Form 2016.10 to now my job change into Security Team and focus on Fingerprint module: Develop some new features for FP and reslove some FP' issues from customers. Guide customers finish to develop TA in TEE(Trusty).Develop fingerprint'payment(SOTER) in platform. As an owner of fingerprint module with customers|
 
 
 ##  Beijing Samsung communication research (BST) 2007.8 ~ 2011.2
@@ -65,15 +68,15 @@ Development and support of applications in the Chinese market (including support
 
 ## Message-net(KaiOS)
 ```
-Project Description: Realize 5G SMS function, including itinerary code, official account, etc.
+Project Description: Realize 5G SMS function, including Travel Code, Official Account, etc.
 
-Responsibility description: Use React to rewrite the message application, and use web idl to implement the corresponding interface
+Responsibility description: Use React to refactor the message application, and use web idl to implement the special APIs.
 ```
 ## Orange Operation(KaiOS)
 ```
 Project description: The call interface obtains the number type (such as emergency number, suspected fraud, merchant information, etc.) by accessing the server according to the number, and displays the corresponding information on the interface
 
-Responsibility description: Responsible for the evaluation of the overall project, the development part is responsible for the coding of the callscreen interface
+Responsibility description: Responsible for the evaluation of the overall project, the development part is responsible for the coding of the callscreen interface and implementation of interaction with server
 ```
 
 ## AI Trainning (SJTU)
